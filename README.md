@@ -6,4 +6,4 @@ I also used MDN docs as my primary resource in first learning HTML and CSS as I 
 
 I did end up doing a bit more than the brief in order to learn more skills, so my Google homepage includes links and other slightly more intensive CSS things like hover shadows, etc. Having to adapt to the HTML5 also played a part in that as I needed to figure out how to call to the correct element and what I could do with it. 
 
-My goal was to avoid redundancy in my code while also making it readable. The one bit of redundancy I decided to keep with the nav tags; even though I didn't call on them in the CSS and could easily remove them, I decided to keep them again for the purpose of readability and specificity.
+My goal was to avoid redundancy in my code while also making it readable. The one bit of redundancy I decided to keep was the nav tags; even though I didn't call on them in the CSS and could easily remove them, I decided to keep them again for the purpose of readability and specificity.
